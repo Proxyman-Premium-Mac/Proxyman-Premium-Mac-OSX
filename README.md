@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/61634/m/phpydrjqq-logo.png?v=1729500327" width="200" alt="Proxyman Premium macOS application icon"><br>
+<img src="https://avatars.githubusercontent.com/u/40727946?v=4" width="200" alt="Proxyman Premium macOS application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/Proxyman%20Premium">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Proxyman Premium macOS page">
 </a><br><br>
